@@ -7,3 +7,5 @@ this line is edited by developer A. - wiske
 =======
 now this line is edited by developer B -wino.
 >>>>>>> refs/remotes/gitLearning/test/add_git_commands
+
+hahahaha
